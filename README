@@ -1,0 +1,16 @@
+SIGVerse/Client
+=============
+
+This repository manages client applications and libraries for SIGVerse project
+
+SIGViewer/
+	Main contents of SIGViewer
+
+SIGService/
+	Service library of SIGVerse communication protocol
+
+Plugin/
+	User interface plug-ins
+
+SgvX3D/
+	X3D related library

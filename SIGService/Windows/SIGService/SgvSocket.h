@@ -4,6 +4,9 @@
 #include <winsock2.h>
 #include "SgvLog.h"
 
+#define BASE_PORT_NUM    9000
+#define WORLD_PORT_WIDTH 5
+
 namespace sigverse
 {
 	class SgvSocket

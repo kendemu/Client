@@ -1,0 +1,2 @@
+MirrorTherapy 192.168.15.128  9000
+PAUSE

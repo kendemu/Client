@@ -1,2 +1,2 @@
-KinectV2_2013 <IPadress> <port number>
+KinectV2_2013 192.168.15.128  9000
 PAUSE
